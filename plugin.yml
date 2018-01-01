@@ -1,0 +1,6 @@
+name: JoinCore
+author: Hender
+description: Mensagem no meio da tela, Efeitos E Fly ao entra no servidor.
+version: 1.0
+main: JoinCore\Main
+api: 2.0.0
