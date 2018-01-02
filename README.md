@@ -1,2 +1,2 @@
 # JoinCore
-Usage All Events Suported on Player Join Event
+Em Breve Config.yml
